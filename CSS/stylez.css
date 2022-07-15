@@ -1,26 +1,18 @@
-  *{
+*{
     box-sizing: border-box;
 margin: 0;
-padding: 0
-;}
+padding: 0;
+}
   
 div.container{
 border: 10px solid black;
 width: 97%;
 margin: 0 auto 0 auto;
-
 }
 
 header{
 background-color: azure;
 }  
-aside image{
-width: 100%;
-}
-aside{
-display: flex;
-justify-content: space-between;
-}
 nav{
   background-color: cornflowerblue;
 }
